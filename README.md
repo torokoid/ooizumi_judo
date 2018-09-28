@@ -70,9 +70,7 @@ body::before {
 <a href="011.jpg" data-lightbox="abc"><img src="011.jpg" alt="サンプル画像" width="180" /></a>
 <a href="012.jpg" data-lightbox="abc"><img src="012.jpg" alt="サンプル画像" width="180" /></a>
 <a href="013.jpg" data-lightbox="abc"><img src="013.jpg" alt="サンプル画像" width="180" /></a> 
-<!--
-<a href="2017-08-12 19 59 10.mp4" data-lightbox="abc"><img src="2017-08-12 19 59 10.mp4" alt="サンプル画像" width="180" /></a> 
--->
+<iframe width="560" height="315" src="https://youtu.be/O9e-Pk77_Vk" frameborder="0" allowfullscreen></iframe>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
