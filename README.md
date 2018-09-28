@@ -66,10 +66,11 @@ body::before {
 <a href="007.jpg" data-lightbox="abc"><img src="007.jpg" alt="サンプル画像" width="180" /></a>
 <a href="008.jpg" data-lightbox="abc"><img src="008.jpg" alt="サンプル画像" width="180" /></a>
 <a href="009.jpg" data-lightbox="abc"><img src="009.jpg" alt="サンプル画像" width="180" /></a>
-<a href="010.jpg" data-lightbox="abc"><img src="010.jpg" alt="サンプル画像" width="180" /></a><br><br>
+<a href="010.jpg" data-lightbox="abc"><img src="010.jpg" alt="サンプル画像" width="180" /></a>
 <a href="011.JPG" data-lightbox="abc"><img src="011.JPG" alt="サンプル画像" width="180" /></a>
 <a href="012.JPG" data-lightbox="abc"><img src="012.JPG" alt="サンプル画像" width="180" /></a>
-  
+<a href="013.JPG" data-lightbox="abc"><img src="013.JPG" alt="サンプル画像" width="180" /></a> 
+ 
   
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
