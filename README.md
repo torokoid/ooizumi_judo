@@ -52,23 +52,23 @@ body::before {
  
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2017年8月12日(土)に大泉高校、柔道部OB会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
-<a href="20180614_05.jpg" data-lightbox="abc"><img src="20180614_05.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_03.jpg" data-lightbox="abc"><img src="20180614_03.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_04.jpg" data-lightbox="abc"><img src="20180614_04.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_02.jpg" data-lightbox="abc"><img src="20180614_02.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_06.jpg" data-lightbox="abc"><img src="20180614_06.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_07.jpg" data-lightbox="abc"><img src="20180614_07.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_08.jpg" data-lightbox="abc"><img src="20180614_08.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_09.jpg" data-lightbox="abc"><img src="20180614_09.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_10.jpg" data-lightbox="abc"><img src="20180614_10.jpg" alt="サンプル画像" width="180" /></a><br><br>
-<a href="20180614_11.JPG" data-lightbox="abc"><img src="20180614_11.JPG" alt="サンプル画像" width="500" /></a>
-<a href="20180614_01.JPG" data-lightbox="abc"><img src="20180614_01.JPG" alt="サンプル画像" width="250" /></a>
+<a href="002.jpg" data-lightbox="abc"><img src="002.jpg" alt="サンプル画像" width="180" /></a>
+<a href="003.jpg" data-lightbox="abc"><img src="003.jpg" alt="サンプル画像" width="180" /></a>
+<a href="004.jpg" data-lightbox="abc"><img src="004.jpg" alt="サンプル画像" width="180" /></a>
+<a href="005.jpg" data-lightbox="abc"><img src="005.jpg" alt="サンプル画像" width="180" /></a>
+<a href="006.jpg" data-lightbox="abc"><img src="006.jpg" alt="サンプル画像" width="180" /></a>
+<a href="007.jpg" data-lightbox="abc"><img src="007.jpg" alt="サンプル画像" width="180" /></a>
+<a href="008.jpg" data-lightbox="abc"><img src="008.jpg" alt="サンプル画像" width="180" /></a>
+<a href="009.jpg" data-lightbox="abc"><img src="009.jpg" alt="サンプル画像" width="180" /></a>
+<a href="010.jpg" data-lightbox="abc"><img src="010.jpg" alt="サンプル画像" width="180" /></a><br><br>
+<a href="011.JPG" data-lightbox="abc"><img src="011.JPG" alt="サンプル画像" width="180" /></a>
+<a href="012.JPG" data-lightbox="abc"><img src="012.JPG" alt="サンプル画像" width="180" /></a>
   
   
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
