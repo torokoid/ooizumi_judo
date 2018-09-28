@@ -43,7 +43,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(/010.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(/010.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 </style>
@@ -52,7 +52,7 @@ body::before {
  
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2017年8月12日(土)に大泉高校、柔道部OB会が執り行われました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2017年8月12日(土)に大泉高校、柔道部OB会が執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div id="wrap">
@@ -67,9 +67,9 @@ body::before {
 <a href="008.jpg" data-lightbox="abc"><img src="008.jpg" alt="サンプル画像" width="180" /></a>
 <a href="009.jpg" data-lightbox="abc"><img src="009.jpg" alt="サンプル画像" width="180" /></a>
 <a href="010.jpg" data-lightbox="abc"><img src="010.jpg" alt="サンプル画像" width="180" /></a>
-<a href="011.JPG" data-lightbox="abc"><img src="011.JPG" alt="サンプル画像" width="180" /></a>
-<a href="012.JPG" data-lightbox="abc"><img src="012.JPG" alt="サンプル画像" width="180" /></a>
-<a href="013.JPG" data-lightbox="abc"><img src="013.JPG" alt="サンプル画像" width="180" /></a> 
+<a href="011.jpg" data-lightbox="abc"><img src="011.jpg" alt="サンプル画像" width="180" /></a>
+<a href="012.jpg" data-lightbox="abc"><img src="012.jpg" alt="サンプル画像" width="180" /></a>
+<a href="013.jpg" data-lightbox="abc"><img src="013.jpg" alt="サンプル画像" width="180" /></a> 
  
   
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
