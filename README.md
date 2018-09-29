@@ -71,7 +71,7 @@ body::before {
 <a href="012.jpg" data-lightbox="abc"><img src="012.jpg" alt="サンプル画像" width="180" /></a>
 <a href="013.jpg" data-lightbox="abc"><img src="013.jpg" alt="サンプル画像" width="180" /></a> 
 <a href="https://youtu.be/O9e-Pk77_Vk
-" target="_blank"><img src="https://youtu.be/O9e-Pk77_Vk/0.jpg" 
+" target="_blank"><img src="koyu.png" 
 alt="校友の歌唄え～！" width="240" height="180" border="10" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
