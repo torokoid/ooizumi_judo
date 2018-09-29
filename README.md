@@ -57,7 +57,7 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。<br>最後の一枚のみ動画です。別途クリック！</span></h3>
+<h3><span class="white">画像はクリックで拡大します。スライドショーで閲覧できます。<br>最後の一枚のみ動画です。別途クリック願います！</span></h3>
 <a href="002.jpg" data-lightbox="abc"><img src="002.jpg" alt="サンプル画像" width="180" /></a>
 <a href="003.jpg" data-lightbox="abc"><img src="003.jpg" alt="サンプル画像" width="180" /></a>
 <a href="004.jpg" data-lightbox="abc"><img src="004.jpg" alt="サンプル画像" width="180" /></a>
