@@ -73,9 +73,9 @@ body::before {
 <a href="013.jpg" data-lightbox="abc"><img src="013.jpg" alt="サンプル画像" width="180" /></a> 
 <a href="https://youtu.be/O9e-Pk77_Vk
 " target="_blank"><img src="koyu.PNG" 
-alt="校友の歌唄え～！" width="180" border="10" /></a><br>
-中華料理ロバーツ　住所/渋谷区千駄ヶ谷5-21-6　2階　電話/5269-0045
-<span class="blue"><a herf= "https://tabelog.com/tokyo/A1304/A130403/13004119/">中華料理ロバーツHP</a></span>
+alt="校友の歌唄え～！" width="180" border="10" /></a><br><br>
+中華料理ロバーツ　住所/渋谷区千駄ヶ谷5-21-6　2階　電話/03-5269-0045<br>
+<span class="blue"><a href="https://tabelog.com/tokyo/A1304/A130403/13004119/" target="_blank">中華料理ロバーツHP</a></span>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
