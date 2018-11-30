@@ -75,7 +75,7 @@ body::before {
 " target="_blank"><img src="koyu.PNG" 
 alt="校友の歌唄え～！" width="180" border="10" /></a><br><br>
 中華料理ロバーツ　住所/渋谷区千駄ヶ谷5-21-6　2階　電話/03-5269-0045<br>
-<span class="blue"; style="text-align:center"><a href="https://tabelog.com/tokyo/A1304/A130403/13004119/" target="_blank">中華料理ロバーツHP</a></span>
+<span class="blue"><p align="center"><a href="https://tabelog.com/tokyo/A1304/A130403/13004119/" target="_blank">中華料理ロバーツHP</a></p></span>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
