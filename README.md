@@ -54,7 +54,7 @@ body::before {
 <body>
 <h1><span class="yellow"><marquee behavior="left">!!! 東京都立大泉高校、柔道部OB会の記録 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<img src="QR_Code1543579890.png" width="200" alt="アクセス用QRコード">
+<img src="QR_Code1543579890.png" alt="アクセス用QRコード" width="200">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
 <h1><span class="yellow"><marquee behavior="left">!!! 2018年12月1日(土)、OB会＠新宿古民家 十徳 !!!</marquee></span></h1>
