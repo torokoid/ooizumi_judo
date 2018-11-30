@@ -55,6 +55,16 @@ body::before {
 <h1><span class="yellow"><marquee behavior="left">!!! 東京都立大泉高校、柔道部OB会の記録 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	
+<h1><span class="yellow"><marquee behavior="left">!!! 2018年12月1日(土)、OB会＠中華料理ロバーツ !!!</marquee></span></h1>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>	
+<h3><span class="white">新宿古民家 十徳　新宿区西新宿1-14-17（新宿西口/南口から徒歩5分）　03-6321-4385</span></h3>
+<span class="blue"><p align="center"><a href="https://tabelog.com/tokyo/A1304/A130401/13187216/" target="_blank">新宿古民家 十徳、食べログ、リンク</a></p></span></div>
+</div>
+<br><br><br><br><br><br><br><br>
+
 <h1><span class="yellow"><marquee behavior="left">!!! 2017年8月12日(土)、OB会＠中華料理ロバーツ !!!</marquee></span></h1>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
@@ -75,7 +85,7 @@ body::before {
 " target="_blank"><img src="koyu.PNG" 
 alt="校友の歌唄え～！" width="180" border="10" /></a><br><br>
 <h3><span class="white">中華料理ロバーツ　住所/渋谷区千駄ヶ谷5-21-6　2階　電話/03-5269-0045</span></h3>
-<span class="blue"><p align="center"><a href="https://tabelog.com/tokyo/A1304/A130403/13004119/" target="_blank">中華料理ロバーツ、食べログリンク</a></p></span>
+<span class="blue"><p align="center"><a href="https://tabelog.com/tokyo/A1304/A130403/13004119/" target="_blank">中華料理ロバーツ、食べログ、リンク</a></p></span></div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
