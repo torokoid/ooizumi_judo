@@ -61,7 +61,8 @@ body::before {
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 	<br><br><br><br>
-<h3><span class="white">新宿古民家 十徳　新宿区西新宿1-14-17（新宿西口/南口から徒歩5分）　03-6321-4385</span></h3>
+<h3><span class="white">＜参加/19名＞佐藤先生、以下略敬称　
+27期/荒賀、宇野　28期/内藤、宮井　29期/大久保、杉山　30期/小椋、羽田　31期/瀧田、田畑　32期/田中、春木　33期/石原、川島、小曽根、東山、森下　36期/川津<br>新宿古民家 十徳　新宿区西新宿1-14-17（新宿西口/南口から徒歩5分）　03-6321-4385</span></h3>
 <span class="blue"><p align="center"><a href="https://tabelog.com/tokyo/A1304/A130401/13187216/" target="_blank">新宿古民家 十徳、食べログ、リンク</a></p></span></div>
 </div>
 <br><br><br><br><br><br><br><br>
