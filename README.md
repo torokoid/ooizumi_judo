@@ -99,6 +99,7 @@ body::before {
 <a href="https://youtu.be/QOkHRJ3vP4I
 " target="_blank"><img src="koyu.PNG" 
 alt="フレーフレー佐藤先生～！" width="180" border="10" /></a><br><br>
+https://youtu.be/QOkHRJ3vP4I
 <br><br><br><br>
 <h3><span class="white">
 <br>=====================================================================<br>
