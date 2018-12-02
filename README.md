@@ -76,7 +76,7 @@ body::before {
 <a href="20181201_13.JPG" data-lightbox="abc"><img src="20181201_13.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_14.JPG" data-lightbox="abc"><img src="20181201_14.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_15.JPG" data-lightbox="abc"><img src="20181201_15.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181201_16.JPG" data-lightbox="abc"><img src="20181201_16.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_16.JPG" data-lightbox="abc"><img src="20181201_16.JPG" alt="サンプル画像" width="135" /></a>
 <a href="20181201_17.JPG" data-lightbox="abc"><img src="20181201_17.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_18.JPG" data-lightbox="abc"><img src="20181201_18.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_19.JPG" data-lightbox="abc"><img src="20181201_19.JPG" alt="サンプル画像" width="180" /></a>
@@ -84,19 +84,18 @@ body::before {
 <a href="20181201_21.JPG" data-lightbox="abc"><img src="20181201_21.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_22.JPG" data-lightbox="abc"><img src="20181201_22.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_23.JPG" data-lightbox="abc"><img src="20181201_23.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181201_24.JPG" data-lightbox="abc"><img src="20181201_24.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181201_25.JPG" data-lightbox="abc"><img src="20181201_25.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181201_26.JPG" data-lightbox="abc"><img src="20181201_26.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181201_27.JPG" data-lightbox="abc"><img src="20181201_27.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_24.JPG" data-lightbox="abc"><img src="20181201_24.JPG" alt="サンプル画像" width="135" /></a>
+<a href="20181201_25.JPG" data-lightbox="abc"><img src="20181201_25.JPG" alt="サンプル画像" width="135" /></a>
+<a href="20181201_26.JPG" data-lightbox="abc"><img src="20181201_26.JPG" alt="サンプル画像" width="135" /></a>
+<a href="20181201_27.JPG" data-lightbox="abc"><img src="20181201_27.JPG" alt="サンプル画像" width="135" /></a>
 <a href="20181201_28.JPG" data-lightbox="abc"><img src="20181201_28.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_29.JPG" data-lightbox="abc"><img src="20181201_29.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_30.JPG" data-lightbox="abc"><img src="20181201_30.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_31.JPG" data-lightbox="abc"><img src="20181201_31.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_32.JPG" data-lightbox="abc"><img src="20181201_32.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_33.JPG" data-lightbox="abc"><img src="20181201_33.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181201_34.JPG" data-lightbox="abc"><img src="20181201_34.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_35.JPG" data-lightbox="abc"><img src="20181201_35.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181201_36.JPG" data-lightbox="abc"><img src="20181201_36.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_36.JPG" data-lightbox="abc"><img src="20181201_36.JPG" alt="サンプル画像" width="135" /></a>
 <a href="https://youtu.be/QOkHRJ3vP4I
 " target="_blank"><img src="koyu.PNG" 
 alt="フレーフレー佐藤先生～！" width="180" border="10" /></a><br><br>
