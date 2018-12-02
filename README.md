@@ -98,7 +98,7 @@ body::before {
 <a href="20181201_36.JPG" data-lightbox="abc"><img src="20181201_36.JPG" alt="サンプル画像" width="135" /></a>
 <a href="https://youtu.be/QOkHRJ3vP4I
 " target="_blank"><img src="frey.png" 
-alt="フレーフレー佐藤先生～！" width="120" border="10" /></a><br><br>
+alt="フレーフレー佐藤先生～！" width="110" border="10" /></a><br><br>
 <h3><span class="white">
 <br>=====================================================================<br>
 ＜参加/18名＞<br>
