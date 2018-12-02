@@ -97,7 +97,7 @@ body::before {
 <a href="20181201_35.JPG" data-lightbox="abc"><img src="20181201_35.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_36.JPG" data-lightbox="abc"><img src="20181201_36.JPG" alt="サンプル画像" width="135" /></a>
 <a href="https://youtu.be/QOkHRJ3vP4I
-" target="_blank"><img src="frey.PNG" 
+" target="_blank"><img src="frey.png" 
 alt="フレーフレー佐藤先生～！" width="180" border="10" /></a><br><br>
 <br><br><br><br>
 <h3><span class="white">
