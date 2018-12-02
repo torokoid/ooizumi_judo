@@ -53,10 +53,10 @@ body::before {
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="left">!!! 東京都立大泉高校、柔道部OB会の記録 !!!</marquee></span></h1>
-<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+
 <img src="QR_Code1543579890.png" alt="アクセス用QRコード" width="100">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-	
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>	
 <h1><span class="yellow"><marquee behavior="left">!!! 2018年12月1日(土)、OB会＠新宿古民家 十徳 !!!</marquee></span></h1>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
@@ -98,8 +98,7 @@ body::before {
 <a href="20181201_36.JPG" data-lightbox="abc"><img src="20181201_36.JPG" alt="サンプル画像" width="135" /></a>
 <a href="https://youtu.be/QOkHRJ3vP4I
 " target="_blank"><img src="frey.png" 
-alt="フレーフレー佐藤先生～！" width="180" border="10" /></a><br><br>
-<br><br><br><br>
+alt="フレーフレー佐藤先生～！" width="135" border="10" /></a><br><br>
 <h3><span class="white">
 <br>=====================================================================<br>
 ＜参加/18名＞<br>
