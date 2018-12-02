@@ -54,20 +54,59 @@ body::before {
 <body>
 <h1><span class="yellow"><marquee behavior="left">!!! 東京都立大泉高校、柔道部OB会の記録 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<img src="QR_Code1543579890.png" alt="アクセス用QRコード" width="200">
+<img src="QR_Code1543579890.png" alt="アクセス用QRコード" width="100">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
 <h1><span class="yellow"><marquee behavior="left">!!! 2018年12月1日(土)、OB会＠新宿古民家 十徳 !!!</marquee></span></h1>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
-	<br><br><br><br>
+<a href="20181201_01.JPG" data-lightbox="abc"><img src="20181201_01.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_02.JPG" data-lightbox="abc"><img src="20181201_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_03.JPG" data-lightbox="abc"><img src="20181201_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_04.JPG" data-lightbox="abc"><img src="20181201_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_05.JPG" data-lightbox="abc"><img src="20181201_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_06.JPG" data-lightbox="abc"><img src="20181201_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_07.JPG" data-lightbox="abc"><img src="20181201_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_08.JPG" data-lightbox="abc"><img src="20181201_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_09.JPG" data-lightbox="abc"><img src="20181201_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_10.JPG" data-lightbox="abc"><img src="20181201_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_11.JPG" data-lightbox="abc"><img src="20181201_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_12.JPG" data-lightbox="abc"><img src="20181201_12.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_13.JPG" data-lightbox="abc"><img src="20181201_13.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_14.JPG" data-lightbox="abc"><img src="20181201_14.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_15.JPG" data-lightbox="abc"><img src="20181201_15.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_16.JPG" data-lightbox="abc"><img src="20181201_16.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_17.JPG" data-lightbox="abc"><img src="20181201_17.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_18.JPG" data-lightbox="abc"><img src="20181201_18.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_19.JPG" data-lightbox="abc"><img src="20181201_19.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_20.JPG" data-lightbox="abc"><img src="20181201_20.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_21.JPG" data-lightbox="abc"><img src="20181201_21.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_22.JPG" data-lightbox="abc"><img src="20181201_22.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_23.JPG" data-lightbox="abc"><img src="20181201_23.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_24.JPG" data-lightbox="abc"><img src="20181201_24.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_25.JPG" data-lightbox="abc"><img src="20181201_25.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_26.JPG" data-lightbox="abc"><img src="20181201_26.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_27.JPG" data-lightbox="abc"><img src="20181201_27.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_28.JPG" data-lightbox="abc"><img src="20181201_28.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_29.JPG" data-lightbox="abc"><img src="20181201_29.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_30.JPG" data-lightbox="abc"><img src="20181201_30.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_31.JPG" data-lightbox="abc"><img src="20181201_31.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_32.JPG" data-lightbox="abc"><img src="20181201_32.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_33.JPG" data-lightbox="abc"><img src="20181201_33.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_34.JPG" data-lightbox="abc"><img src="20181201_34.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_35.JPG" data-lightbox="abc"><img src="20181201_35.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181201_36.JPG" data-lightbox="abc"><img src="20181201_36.JPG" alt="サンプル画像" width="180" /></a>
+<a href="https://youtu.be/QOkHRJ3vP4I
+" target="_blank"><img src="koyu.PNG" 
+alt="フレーフレー佐藤先生～！" width="180" border="10" /></a><br><br>
+<br><br><br><br>
 <h3><span class="white">
 <br>=====================================================================<br>
-＜参加/19名＞<br>
+＜参加/18名＞<br>
 佐藤先生<br>　
 27期/荒賀、宇野　28期/内藤、宮井　29期/大久保、杉山　30期/小椋、羽田　31期/瀧田、田畑<br>
-32期/田中、春木　33期/石原、川島、小曽根、東山、森下　36期/川津
+32期/春木　33期/石原、川島、小曽根、東山、森下　36期/川津
 <br>=====================================================================<br>
 <br>新宿古民家 十徳　新宿区西新宿1-14-17（新宿西口/南口から徒歩5分）　03-6321-4385</span></h3>
 <span class="blue"><p align="center"><a href="https://tabelog.com/tokyo/A1304/A130401/13187216/" target="_blank">新宿古民家 十徳、食べログ、リンク</a></p></span></div>
