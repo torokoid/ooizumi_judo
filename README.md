@@ -100,7 +100,7 @@ body::before {
 " target="_blank"><img src="frey.png" 
 alt="フレーフレー佐藤先生～！" width="110" border="10" /></a>
 	<p>当日は不参加でしたが、２９期/野村さん（東京建物社長）のお写真です。</p>
-<a href="nomura.JPG" data-lightbox="abc"><img src="nomura.JPG" alt="サンプル画像" width="135" /></a>
+<a href="nomura.JPG" data-lightbox="abc"><img src="nomura.JPG" alt="サンプル画像" width="２００" /></a>
 	<br><br>
 <h3><span class="white">
 <br>=====================================================================<br>
