@@ -98,7 +98,10 @@ body::before {
 <a href="20181201_36.JPG" data-lightbox="abc"><img src="20181201_36.JPG" alt="サンプル画像" width="135" /></a>
 <a href="https://youtu.be/QOkHRJ3vP4I
 " target="_blank"><img src="frey.png" 
-alt="フレーフレー佐藤先生～！" width="110" border="10" /></a><br><br>
+alt="フレーフレー佐藤先生～！" width="110" border="10" /></a>
+	<p>２９期、野村さん東京建物社長のお写真です。</p>
+<a href="nomura.JPG" data-lightbox="abc"><img src="nomura.JPG" alt="サンプル画像" width="135" /></a>
+	<br><br>
 <h3><span class="white">
 <br>=====================================================================<br>
 ＜参加/18名＞<br>
@@ -131,7 +134,7 @@ alt="フレーフレー佐藤先生～！" width="110" border="10" /></a><br><br
 " target="_blank"><img src="koyu.PNG" 
 alt="校友の歌唄え～！" width="180" border="10" /></a><br><br>
 <h3><span class="white">開催後に佐藤先生より、ありがたいお言葉をいただいております。<br>
-<br>=====================================================================<br>
+=====================================================================<br>
 大泉高校柔道部ＯＢの皆様へ<br><br>
 
 今日は、最高の酒を飲ませていただきました。<br>
