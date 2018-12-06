@@ -99,7 +99,8 @@ body::before {
 <a href="https://youtu.be/QOkHRJ3vP4I
 " target="_blank"><img src="frey.png" 
 alt="フレーフレー佐藤先生～！" width="110" border="10" /></a>
-	<p>当日は不参加でしたが、２９期/野村さん（東京建物社長）のお写真です。</p>
+	<p>当日は不参加でしたが、２９期/野村さん（東京建物社長）のお写真です。<br>
+	2018/12/3撮影</p>
 <a href="nomura.png" data-lightbox="abc"><img src="nomura.png" alt="サンプル画像" width="200" /></a>
 	<br><br>
 <h3><span class="white">
