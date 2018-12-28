@@ -31,11 +31,11 @@ font-size: 1.5em;
 	color: #FFF;
 	text-align: center;
 }
-
+<!--
 div {
 background-color:rgb(255,255,255,0.3);
 }
-
+-->
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
   content:"";
@@ -61,8 +61,8 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>	
 <h1><span class="yellow"><marquee behavior="left">!!! 2018年12月1日(土)、OB会＠新宿古民家 十徳 !!!</marquee></span></h1>
-<div>
-
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="20181201_01.JPG" data-lightbox="abc"><img src="20181201_01.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_02.JPG" data-lightbox="abc"><img src="20181201_02.JPG" alt="サンプル画像" width="180" /></a>
