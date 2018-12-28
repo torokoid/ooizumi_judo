@@ -32,6 +32,9 @@ font-size: 1.5em;
 	text-align: center;
 }
 
+div {
+background-color:rgb(255,255,255,0.3);
+}
 
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
