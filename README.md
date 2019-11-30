@@ -56,6 +56,33 @@ body::before {
 <img src="QR_Code1543579890.png" alt="アクセス用QRコード" width="100">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>	
+	
+<h1><span class="yellow"><marquee behavior="left">!!! 2019年11月30日(土)、OB会＠栄寿司 西口店 !!!</marquee></span></h1>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+	<br><br>
+<h3><span class="white">
+<br>=====================================================================<br>
+現在の出欠状況です。昨年（18名）以上の25名ご参加となっています。
+前回作成した“大泉高校柔道部“ライングループに既にご加入頂いている皆様には、是非ご同期の方々にお声掛け頂き（土井さんは無理ですね）、ライン参加者を増やせればと思っています。次回以降の連絡がスムーズになりますので、ご協力をお願い申し上げます。
+ 
+＜ご参加表明済み/2６名＞
+（1）佐藤先生、以下略敬称　
+21期(2)田邊、松村、27期（1）荒賀、（欠席）宇野、28期（4）奥山、木谷、内藤、宮井、（欠席）平井、山本　
+29期（3）大久保、加藤、杉山、（未定）野村（欠席）外記、30期（2）小椋、羽田、31期（3）瀧田、田畑、土井、（欠席）友野　
+32期（2）田中、春木、33期（5）石原、小曽根、東山、森下、
+36期（2）真島、河津、太田、（欠席）平岡、坂岡(小椋さん教え子)　37期　（欠席）柳浦
+ 
+＜大泉高校柔道部ライン参加者：18名＞
+21田邊、27荒賀、宇野、28宮井、29まさ/杉山、30Haru(羽田)、31田畑、31たま(瀧田)、32春木、33イッシー(石原)、33小曽根、33ひがし(東山)、33森下、36河津、36坂岡、36真島、36michi.h(平岡)、37柳浦
+<br>=====================================================================<br>
+<br>日時：11月30日（土）17：00-19：00
+場所：栄寿司　新宿西口店　住所：西新宿1-18-16（新宿駅西口より徒歩2分）電話3340-2525
+https://tabelog.com/tokyo/A1304/A130401/13024424/
+会費：6000円</span></h3>
+<br><br><br><br><br><br><br><br>
+
 <h1><span class="yellow"><marquee behavior="left">!!! 2018年12月1日(土)、OB会＠新宿古民家 十徳 !!!</marquee></span></h1>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
@@ -95,9 +122,7 @@ body::before {
 <a href="20181201_33.JPG" data-lightbox="abc"><img src="20181201_33.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_35.JPG" data-lightbox="abc"><img src="20181201_35.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181201_36.JPG" data-lightbox="abc"><img src="20181201_36.JPG" alt="サンプル画像" width="135" /></a>
-<a href="https://youtu.be/QOkHRJ3vP4I
-" target="_blank"><img src="frey.png" 
-alt="フレーフレー佐藤先生～！" width="110" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QOkHRJ3vP4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<p>当日は不参加でしたが、２９期/野村さん（東京建物社長）のお写真です。<br>
 	2018/12/3撮影</p>
 <a href="nomura.png" data-lightbox="abc"><img src="nomura.png" alt="サンプル画像" width="150" /></a>
