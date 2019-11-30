@@ -60,7 +60,7 @@ body::before {
 <h1><span class="yellow"><marquee behavior="left">!!! 2019年11月30日(土)、OB会＠栄寿司 西口店 !!!</marquee></span></h1>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+<!--<h3><span class="white">画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>-->
 	<br><br>
 <h3><span class="white">
 <br>=====================================================================<br>
@@ -84,7 +84,7 @@ body::before {
 <br>=====================================================================<br>
 <br>日時：11月30日（土）17：00-19：00<br>
 場所：栄寿司　新宿西口店　住所：西新宿1-18-16（新宿駅西口より徒歩2分）電話3340-2525<br>
-<p align="center"><a href="https://tabelog.com/tokyo/A1304/A130401/13024424/" target="_blank">食べログ、リンク</a></p>
+<span class="blue"><p align="center"><a href="https://tabelog.com/tokyo/A1304/A130401/13024424/" target="_blank">栄寿司　新宿西口店、食べログ、リンク</a></p></span>
 会費：6000円</span></h3>
 <br><br><br><br><br><br><br><br>
 
