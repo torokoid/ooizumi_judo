@@ -139,9 +139,12 @@ body::before {
 <a href="2019112730_071.JPG" data-lightbox="abc"><img src="2019112730_071.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_072.JPG" data-lightbox="abc"><img src="2019112730_072.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_073.JPG" data-lightbox="abc"><img src="2019112730_073.JPG" alt="サンプル画像" width="180" /></a>
-	<br>
-	<p align="left">春木幹事長、挨拶</p>
+<br><br>
+<p align="left">春木幹事長、挨拶</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3uDXEe4ETR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+<p align="left">佐藤先生のお言葉、１６分の大作です</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/30VzcX3Pfs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<br><br>
 <h3><span class="white">
 <br>=====================================================================<br>
