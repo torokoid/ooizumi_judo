@@ -60,7 +60,80 @@ body::before {
 <h1><span class="yellow"><marquee behavior="left">!!! 2019年11月30日(土)、OB会＠栄寿司 西口店 !!!</marquee></span></h1>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<!--<h3><span class="white">画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>-->
+<h3><span class="white">画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+<a href="2019112730_001.JPG" data-lightbox="abc"><img src="2019112730_001.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_002.JPG" data-lightbox="abc"><img src="2019112730_002.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_003.JPG" data-lightbox="abc"><img src="2019112730_003.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_004.JPG" data-lightbox="abc"><img src="2019112730_004.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_005.JPG" data-lightbox="abc"><img src="2019112730_005.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_006.JPG" data-lightbox="abc"><img src="2019112730_006.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_007.JPG" data-lightbox="abc"><img src="2019112730_007.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_008.JPG" data-lightbox="abc"><img src="2019112730_008.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_009.JPG" data-lightbox="abc"><img src="2019112730_009.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_010.JPG" data-lightbox="abc"><img src="2019112730_010.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_011.JPG" data-lightbox="abc"><img src="2019112730_011.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_012.JPG" data-lightbox="abc"><img src="2019112730_012.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_013.JPG" data-lightbox="abc"><img src="2019112730_013.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_014.JPG" data-lightbox="abc"><img src="2019112730_014.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_015.JPG" data-lightbox="abc"><img src="2019112730_015.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_016.JPG" data-lightbox="abc"><img src="2019112730_016.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_017.JPG" data-lightbox="abc"><img src="2019112730_017.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_018.JPG" data-lightbox="abc"><img src="2019112730_018.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_019.JPG" data-lightbox="abc"><img src="2019112730_019.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_020.JPG" data-lightbox="abc"><img src="2019112730_020.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_021.JPG" data-lightbox="abc"><img src="2019112730_021.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_022.JPG" data-lightbox="abc"><img src="2019112730_022.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_023.JPG" data-lightbox="abc"><img src="2019112730_023.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_024.JPG" data-lightbox="abc"><img src="2019112730_024.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_025.JPG" data-lightbox="abc"><img src="2019112730_025.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_026.JPG" data-lightbox="abc"><img src="2019112730_026.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_027.JPG" data-lightbox="abc"><img src="2019112730_027.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_028.JPG" data-lightbox="abc"><img src="2019112730_028.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_029.JPG" data-lightbox="abc"><img src="2019112730_029.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_030.JPG" data-lightbox="abc"><img src="2019112730_030.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_031.JPG" data-lightbox="abc"><img src="2019112730_031.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_032.JPG" data-lightbox="abc"><img src="2019112730_032.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_033.JPG" data-lightbox="abc"><img src="2019112730_033.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_034.JPG" data-lightbox="abc"><img src="2019112730_034.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_035.JPG" data-lightbox="abc"><img src="2019112730_035.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_036.JPG" data-lightbox="abc"><img src="2019112730_036.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_037.JPG" data-lightbox="abc"><img src="2019112730_037.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_038.JPG" data-lightbox="abc"><img src="2019112730_038.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_039.JPG" data-lightbox="abc"><img src="2019112730_039.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_040.JPG" data-lightbox="abc"><img src="2019112730_040.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_041.JPG" data-lightbox="abc"><img src="2019112730_041.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_042.JPG" data-lightbox="abc"><img src="2019112730_042.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_043.JPG" data-lightbox="abc"><img src="2019112730_043.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_044.JPG" data-lightbox="abc"><img src="2019112730_044.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_045.JPG" data-lightbox="abc"><img src="2019112730_045.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_046.JPG" data-lightbox="abc"><img src="2019112730_046.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_047.JPG" data-lightbox="abc"><img src="2019112730_047.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_048.JPG" data-lightbox="abc"><img src="2019112730_048.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_049.JPG" data-lightbox="abc"><img src="2019112730_049.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_050.JPG" data-lightbox="abc"><img src="2019112730_050.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_051.JPG" data-lightbox="abc"><img src="2019112730_051.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_052.JPG" data-lightbox="abc"><img src="2019112730_052.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_053.JPG" data-lightbox="abc"><img src="2019112730_053.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_054.JPG" data-lightbox="abc"><img src="2019112730_054.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_055.JPG" data-lightbox="abc"><img src="2019112730_055.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_056.JPG" data-lightbox="abc"><img src="2019112730_056.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_057.JPG" data-lightbox="abc"><img src="2019112730_057.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_058.JPG" data-lightbox="abc"><img src="2019112730_058.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_059.JPG" data-lightbox="abc"><img src="2019112730_059.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_060.JPG" data-lightbox="abc"><img src="2019112730_060.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_061.JPG" data-lightbox="abc"><img src="2019112730_061.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_062.JPG" data-lightbox="abc"><img src="2019112730_062.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_063.JPG" data-lightbox="abc"><img src="2019112730_063.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_064.JPG" data-lightbox="abc"><img src="2019112730_064.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_065.JPG" data-lightbox="abc"><img src="2019112730_065.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_066.JPG" data-lightbox="abc"><img src="2019112730_066.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_067.JPG" data-lightbox="abc"><img src="2019112730_067.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_068.JPG" data-lightbox="abc"><img src="2019112730_068.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_069.JPG" data-lightbox="abc"><img src="2019112730_069.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_070.JPG" data-lightbox="abc"><img src="2019112730_070.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_071.JPG" data-lightbox="abc"><img src="2019112730_071.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_072.JPG" data-lightbox="abc"><img src="2019112730_072.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_073.JPG" data-lightbox="abc"><img src="2019112730_073.JPG" alt="サンプル画像" width="180" /></a>
 	<br><br>
 <h3><span class="white">
 <br>=====================================================================<br>
@@ -72,7 +145,7 @@ body::before {
 （1）佐藤先生、以下略敬称　<br>
 21期(2)田邊、松村、27期（1）荒賀、（欠席）宇野、28期（4）奥山、木谷、内藤、宮井、<br>
 （欠席）平井、山本<br>
-29期（3）大久保、加藤、杉山、（未定）野村（欠席）外記、30期（2）小椋、羽田、<br>
+29期（2）加藤、杉山、（欠席）野村、大久保、外記、30期（2）小椋、羽田、<br>
 31期（3）瀧田、田畑、土井、（欠席）友野、32期（2）田中、春木、<br>
 33期（5）石原、小曽根、東山、森下、36期（2）真島、河津、太田、（欠席）平岡、坂岡(小椋さん教え子)<br>　
 37期（欠席）柳浦<br><br>
