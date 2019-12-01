@@ -61,9 +61,9 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+<p align="left">春木さん撮影</p>
 <a href="2019112730_001.JPG" data-lightbox="abc"><img src="2019112730_001.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_002.JPG" data-lightbox="abc"><img src="2019112730_002.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2019112730_003.JPG" data-lightbox="abc"><img src="2019112730_003.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_004.JPG" data-lightbox="abc"><img src="2019112730_004.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_005.JPG" data-lightbox="abc"><img src="2019112730_005.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_006.JPG" data-lightbox="abc"><img src="2019112730_006.JPG" alt="サンプル画像" width="180" /></a>
@@ -72,11 +72,16 @@ body::before {
 <a href="2019112730_009.JPG" data-lightbox="abc"><img src="2019112730_009.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_010.JPG" data-lightbox="abc"><img src="2019112730_010.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_011.JPG" data-lightbox="abc"><img src="2019112730_011.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2019112730_003.JPG" data-lightbox="abc"><img src="2019112730_003.JPG" alt="サンプル画像" width="600" /></a>
+<br><br>
+<p align="left">小曽根さん撮影</p>	
 <a href="2019112730_012.JPG" data-lightbox="abc"><img src="2019112730_012.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_013.JPG" data-lightbox="abc"><img src="2019112730_013.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_014.JPG" data-lightbox="abc"><img src="2019112730_014.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_015.JPG" data-lightbox="abc"><img src="2019112730_015.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_016.JPG" data-lightbox="abc"><img src="2019112730_016.JPG" alt="サンプル画像" width="180" /></a>
+<br><br>
+<p align="left">羽田撮影</p>	
 <a href="2019112730_017.JPG" data-lightbox="abc"><img src="2019112730_017.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_018.JPG" data-lightbox="abc"><img src="2019112730_018.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2019112730_019.JPG" data-lightbox="abc"><img src="2019112730_019.JPG" alt="サンプル画像" width="180" /></a>
