@@ -145,7 +145,10 @@ body::before {
 <br><br>
 <p align="left">佐藤先生のお言葉、１６分あります</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/30VzcX3Pfs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	<br><br>
+<br><br>
+<p align="left">ご挨拶の冒頭にあった、安全教育の例。画像のクリックでリンク先に飛びます。</p>
+<a href="https://www.nipponbudokan.or.jp/pdf/shinkoujigyou/201511/h27_judo_shidouhouKenkyu.pdf" data-lightbox="abc"><img src="20191130.png" alt="サンプル画像" width="800" /></a>
+<br><br>
 <h3><span class="white">
 <br>=====================================================================<br>
 現在の出欠状況です。昨年（18名）以上の25名ご参加となっています。<br>
