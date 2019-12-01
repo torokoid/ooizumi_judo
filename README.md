@@ -143,7 +143,7 @@ body::before {
 <p align="left">春木幹事長、挨拶</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3uDXEe4ETR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-<p align="left">佐藤先生のお言葉、１６分の大作です</p>
+<p align="left">佐藤先生のお言葉、１６分あります</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/30VzcX3Pfs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<br><br>
 <h3><span class="white">
