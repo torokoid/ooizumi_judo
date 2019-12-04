@@ -187,7 +187,16 @@ body::before {
 ＜大泉高校柔道部ライン未参加＞<br>
 21期　松村、<br>
 28期　奥山、木谷、内藤、平井、山本<br>
-29期　加藤、大久保...<br>
+29期　加藤、大久保、外記、野村<br>
+31期　友野、土井（携帯未利用）<br>
+32期　五社、33期　川島<br>
+ <br>
+ <br>
+32期/1980年卒<br>
+春木康<br>
+メールアドレス：<a href="ko.haruki@icloud.com" target="_blank">ko.haruki@icloud.com</a><br>
+春木/携帯：080-3240-5744
+
 </span></h3>
 <br><br><br><br><br><br><br><br>
 
