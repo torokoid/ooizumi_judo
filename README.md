@@ -194,7 +194,7 @@ body::before {
  <br>
 32期/1980年卒<br>
 春木康<br>
-メールアドレス：<a href="ko.haruki@icloud.com" target="_blank">ko.haruki@icloud.com</a><br>
+メールアドレス：<a href="mailto:ko.haruki@icloud.com" target="_blank">ko.haruki@icloud.com</a><br>
 春木/携帯：080-3240-5744
 
 </span></h3>
