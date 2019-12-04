@@ -198,6 +198,7 @@ body::before {
 春木/携帯：080-3240-5744
 
 </span></h3>
+</div>
 <br><br><br><br><br><br><br><br>
 
 <h1><span class="yellow"><marquee behavior="left">!!! 2018年12月1日(土)、OB会＠新宿古民家 十徳 !!!</marquee></span></h1>
