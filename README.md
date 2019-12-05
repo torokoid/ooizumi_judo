@@ -45,12 +45,25 @@ body::before {
   background:url(https://torokoid.github.io/ooizumi_judo/010.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
+
+ 
+@media	screen and (min-width: 540px),
+	screen and (orientation: landscape) {
+   p.note { display: none; }
+}
+  
 </style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
  
 </head>
 <body>
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにすると
+  より見やすくご覧頂けます。
+</p>
+ 
+
 <h1><span class="yellow"><marquee behavior="left">!!! 東京都立大泉高校、柔道部OB会の記録 !!!</marquee></span></h1>
 <p align="right">2017年８月、OB会佐藤先生のお言葉！</p>
 <img src="QR_Code1543579890.png" alt="アクセス用QRコード" width="100">
