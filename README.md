@@ -177,7 +177,9 @@ body::before {
  
 日時：11月30日（土）17：00-19：00<br>
 場所：栄寿司　新宿西口店　住所：西新宿1-18-16（新宿駅西口より徒歩2分）電話3340-2525<br></span></h3>
-<span class="blue"><p align="center"><a href="https://tabelog.com/tokyo/A1304/A130401/13024424/" target="_blank">栄寿司　新宿西口店、食べログ、リンク</a></p></span><h3>
+<span class="blue"><p align="center"><a href="https://tabelog.com/tokyo/A1304/A130401/13024424/" target="_blank">栄寿司　新宿西口店、食べログ、リンク</a></p></span>
+
+<h3><span class="white">
 会費：6000円<br><br>
 
 次回開催も、来年11月下旬を予定しています。恐らく11月28日（土曜日）、同じ時間で同じ場所？。<br>
