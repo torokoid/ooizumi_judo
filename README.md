@@ -158,13 +158,13 @@ body::before {
 <p align="left">28期卒業アルバム、奥山先輩提供</p>
 <a href="20191130_001.JPG" data-lightbox="abc"><img src="20191130_001.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20191130_002.JPG" data-lightbox="abc"><img src="20191130_002.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20191130_003.JPG" data-lightbox="abc"><img src="20191130_003.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20191130_003.JPG" data-lightbox="abc"><img src="20191130_003.JPG" alt="サンプル画像" width="800" /></a>
 <p align="left">21期卒業アルバム、田邉先輩提供</p>
 <a href="20191130_004.JPG" data-lightbox="abc"><img src="20191130_004.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20191130_005.JPG" data-lightbox="abc"><img src="20191130_005.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20191130_006.JPG" data-lightbox="abc"><img src="20191130_006.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20191130_007.JPG" data-lightbox="abc"><img src="20191130_007.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20191130_008.JPG" data-lightbox="abc"><img src="20191130_008.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20191130_008.JPG" data-lightbox="abc"><img src="20191130_008.JPG" alt="サンプル画像" width="800" /></a>
 	
 <br><br>
 <p align="left">春木幹事長、挨拶</p>
