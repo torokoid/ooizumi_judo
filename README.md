@@ -325,11 +325,19 @@ alt="校友の歌唄え～！" width="180" border="10" /></a><br><br>
 <span class="blue"><p align="center"><a href="https://tabelog.com/tokyo/A1304/A130403/13004119/" target="_blank">中華料理ロバーツ、食べログ、リンク</a></p></span>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
+
 
 </div>
 <br><br>
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
+
+<br><br>
+
+<script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
+<script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
+<script src="https://torokoid.github.io/shiba/my.js"></script> 
 
 <!-- フッタ -->
  <footer>
