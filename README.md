@@ -65,7 +65,7 @@ body::before {
  
 
 <h1><span class="yellow"><marquee behavior="left">!!! 東京都立大泉高校、柔道部OB会の記録 !!!</marquee></span></h1>
-<p>柔道部OB会の記録><a href="https://torokoid.github.io/zuiho/" target="_blank">「瑞宝小綬章」受章の記録</a>><a href="https://torokoid.github.io/ooizumi_judo_2024/" target="_blank">2024年OB会</a>
+<p>柔道部OB会の記録><a href="https://torokoid.github.io/zuiho/" target="_blank">「瑞宝小綬章」受章の記録</a>><a href="https://torokoid.github.io/ooizumi_judo_2024/" target="_blank">2024年OB会</a>><a href="https://torokoid.github.io/20250523_ooizumi_judo/" target="_blank">佐藤先生を囲んで山本先輩とお会いする会</a></p>
 <p align="right">2017年８月、OB会佐藤先生のお言葉！</p>
 <img src="QR_Code1543579890.png" alt="アクセス用QRコード" width="100">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
